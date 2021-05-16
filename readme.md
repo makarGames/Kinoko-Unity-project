@@ -1,6 +1,6 @@
 # Kinoko
 
-<img src = "./Media/banner.png">
+<img src = "./Media/banner.jpg">
 
 Простая игра про милого грибника, что исследует глубины леса в поисках грибочков.
 
